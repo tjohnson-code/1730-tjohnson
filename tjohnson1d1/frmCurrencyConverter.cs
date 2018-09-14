@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace tjohnson1d1
 {
-    public partial class Form1 : Form
+    public partial class frmCurrencyConverter : Form
     {
-        public Form1()
+        public frmCurrencyConverter()
         {
             InitializeComponent();
         }
