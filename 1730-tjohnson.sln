@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tjohnson1e1", "tjohnson1e1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tjohnson1f1", "tjohnson1f1\tjohnson1f1.csproj", "{248EA479-53C6-4640-AE1C-6A5FC0B8A091}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "variableSamp", "variableSamp\variableSamp.csproj", "{FA08CD1D-35FD-40A1-B674-C4E2C1D6710C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tjohnson2a1", "tjohnson2a1\tjohnson2a1.csproj", "{379EE542-2F6A-4F8E-8702-EBD79780730F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{248EA479-53C6-4640-AE1C-6A5FC0B8A091}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{248EA479-53C6-4640-AE1C-6A5FC0B8A091}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{248EA479-53C6-4640-AE1C-6A5FC0B8A091}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA08CD1D-35FD-40A1-B674-C4E2C1D6710C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA08CD1D-35FD-40A1-B674-C4E2C1D6710C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA08CD1D-35FD-40A1-B674-C4E2C1D6710C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA08CD1D-35FD-40A1-B674-C4E2C1D6710C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379EE542-2F6A-4F8E-8702-EBD79780730F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379EE542-2F6A-4F8E-8702-EBD79780730F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379EE542-2F6A-4F8E-8702-EBD79780730F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379EE542-2F6A-4F8E-8702-EBD79780730F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
