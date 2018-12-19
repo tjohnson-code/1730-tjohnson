@@ -45,7 +45,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tjohnson3a1UnitTests", "tjo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tjohnson3b1", "tjohnson3b1\tjohnson3b1.csproj", "{F9FD4B4D-11B1-4DCD-8EFD-ED0C7D747519}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tjohnson3b1UnitTests", "tjohnson3b1UnitTests\tjohnson3b1UnitTests.csproj", "{6FA6AD33-E4DD-4342-B9DE-29443DB59B87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "tjohnson3b1UnitTests", "tjohnson3b1UnitTests\tjohnson3b1UnitTests.csproj", "{6FA6AD33-E4DD-4342-B9DE-29443DB59B87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tjohnson3c1", "tjohnson3c1\tjohnson3c1.csproj", "{EA780E9F-E3A0-4162-A7A9-BB31F09216A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tjohnson3c1UnitTests", "tjohnson3c1UnitTests\tjohnson3c1UnitTests.csproj", "{5EB8E327-3826-4BAD-A135-E1F1C9D06598}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +145,14 @@ Global
 		{6FA6AD33-E4DD-4342-B9DE-29443DB59B87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FA6AD33-E4DD-4342-B9DE-29443DB59B87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FA6AD33-E4DD-4342-B9DE-29443DB59B87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA780E9F-E3A0-4162-A7A9-BB31F09216A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA780E9F-E3A0-4162-A7A9-BB31F09216A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA780E9F-E3A0-4162-A7A9-BB31F09216A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA780E9F-E3A0-4162-A7A9-BB31F09216A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB8E327-3826-4BAD-A135-E1F1C9D06598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB8E327-3826-4BAD-A135-E1F1C9D06598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB8E327-3826-4BAD-A135-E1F1C9D06598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB8E327-3826-4BAD-A135-E1F1C9D06598}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
